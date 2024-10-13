@@ -1,4 +1,4 @@
-// Date: 2021/09/26
+// Date: 2024/10/13
 // Description: This is a simple receipt maker for a restaurant. It calculates the price of the dishes, adds a tax and a discount based on the number of guests.
 
 // Data structure for the dishes
